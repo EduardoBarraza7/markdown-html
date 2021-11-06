@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>Lost Doggos</h1>
-<p>To help find lost dogs<a href="https://github.com/EduardoBarraza7/markdown-html">"My Git Hub"</a></p1>
+<p>To help find lost dogs<a href="https://github.com/EduardoBarraza7">"My Git Hub"</a></p1>
 <hr />
 <h2>click on the bar to search 
 create a post for others to see</h2>
